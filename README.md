@@ -27,4 +27,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryaveer3&show_icons=true&locale=en" alt="aryaveer3" /></p>
 
+---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryaveer3&" alt="aryaveer3" /></p>
+
+---
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+Peace out.
+<a href="https://emoji.gg/emoji/4539-radpepe"><img src="https://cdn3.emoji.gg/emojis/4539-radpepe.png" width="64px" height="64px" alt="radpepe"></a>
+
